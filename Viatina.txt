@@ -1,0 +1,14 @@
+1. Para começar, escolha o protozoário com o qual irá trabalhar, mas lembre-se que ele necessariamente deve ser patogênico, potencial de transmitir doenças.
+
+2. Depois a sua escrita deve seguir rigorosamente esses passos: *1º Caracterize o ambiente, com riquezas de detalhes*, no sentido de o local no qual se deu a contaminação,  deixe bem claro quais os fatores ambientais e/ou humanos pelo qual esse ambiente tornou-se propício ao desenvolvimento dos microorganismo.
+
+3. Deixe claro com quais mecanismos, métodos, formas, comportamentos, presença de um ou mais vetores, se deu o processo de contaminação, não se esqueça de relacionar o possível ciclo biológico do protozoário e  o desenvolvimento da doença com as suas características.
+
+4. Agora que sabemos as características dos locais contaminados, bem como do desenvolvimento da doença em humanos, proponha maneiras de mitigação do problema (resolução do problema de contaminação local) (essa etapa, os senhores deverão descrever no mínino 10 linhas).
+
+
+1R: PLASMODIUM/UNICELULAR (MALARIA);
+
+2R: Clima tropical e subtropical - Regiões de florestas - Climas umidos - Região norte - Cidades proximas a Florestas - Corpos e reservatorios d'água;
+
+3R:transmitidas pelos mosquitos do genêro Anopheles infectados, compartilhamento de seringas, transfusão de sangue e de mãe para feto, na gravidez - ciclo sexuado no transmissor Anopheles e assexuado no ser humano, multiplicando-se até chegar ao fígado e contaminando as céculas hepáticas até que se rompam - 
